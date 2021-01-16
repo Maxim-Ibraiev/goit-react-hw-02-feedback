@@ -22,6 +22,8 @@ export default function FeedbackOptions({
 }
 
 FeedbackOptions.propTypes = {
-  options: propTypes.string,
+  good: propTypes.string,
+  neutral: propTypes.string,
+  bad: propTypes.string,
   onLeaveFeedback: propTypes.func,
 };
