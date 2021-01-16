@@ -2,10 +2,10 @@
   "name": "goit-react-hw-02-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Maxim-Ibraiev.github.io/goit-react-hw-01-feedback",
+  "homepage": "https://Maxim-Ibraiev.github.io/goit-react-hw-02-feedback",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Maxim-Ibraiev/goit-react-hw-01-feedback.git"
+    "url": "git+https://github.com/Maxim-Ibraiev/goit-react-hw-02-feedback.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
